@@ -1,6 +1,6 @@
 K'naan
-Ammar Khader
 Nimco Yasin
+Ammar Khader
 Abdulkarim Al-Makki
 Disclosure
 Bruce Springsteen
@@ -11,8 +11,8 @@ Ahmed Alshaiba
 Amal Murad
 Bon Jovi
 Abbas Ibrahim
-J. Cole
 Paul Simon
+J. Cole
 GOT7
 The Eagles
 Shwan Sulaiman
@@ -35,11 +35,11 @@ Dahman El Harachi
 Sami Yusuf
 Faudel
 Jam Hsiao
-Ludovico Einaudi
 Mohamed Fouad
-Askin Nur Yengi
-Mona Amarcha
+Ludovico Einaudi
 Chim ne Badi
+Mona Amarcha
+Askin Nur Yengi
 Wasim Qassis
 Motley Crue
 Essa Al Marzouq
@@ -154,9 +154,9 @@ Luther Vandross
 Bob Marley
 Enrico Sangiuliano
 Said Murad
-Jowan Safadi
-Laura Nyro
 Emad Batayeh
+Laura Nyro
+Jowan Safadi
 Hamaki
 Abdou El Omari
 Ritchie Valens
@@ -390,7 +390,6 @@ Abderrezak Roksy
 Sabah Habas Mustapha
 Gloria Gaynor
 Humood AlKhudher
-Nancy Nasrallah
 Noura Mint Seymali
 Natalie Cole
 Radiohead
@@ -619,6 +618,7 @@ Abdel Baset Hamouda
 Cheb Aissa
 Khalil Rouis
 Jil Jilala
+Abdul Rahman Al-Rashed
 Post Malone
  etin Tekindor
 Coldplay
@@ -943,6 +943,7 @@ Asala Nasri
 Mick Jagger
 V ronique Sanson
 David Guetta
+Nancy Nasrallah
 Izzet Yildizhan
 Rana Samaha
 Shereen Reda
@@ -951,8 +952,8 @@ The Avett Brothers
 Mahmoud Darwish
 Ibrahim Qashoush
 Leonard Cohen
-Hani Shaker
 Khalid Al Shaikh
+Hani Shaker
 Amir Yazbek
 Darius
 ONE OK ROCK
@@ -1074,12 +1075,12 @@ Mohammad Assaf
 Françoise Hardy
 Parliament-Funkadelic
 Ali El Khouli
+Mahmoud El Lithy
 Lucy Dacus
 Nour Al-Zain
-Mahmoud El Lithy
+The Shadows
 Fahad Al-Haddad
 The Jimi Hendrix Experience
-The Shadows
 Fahad Al Kubaisi
 Julio Iglesias
 Nekfeu
@@ -1310,6 +1311,7 @@ Carla Lazzari
 Day6
 Ömer Danis
 Huda Sultan
+Kamal El Taweel
 Hala Al Kaseer
 Tones and I
 Fna re
@@ -1347,6 +1349,7 @@ Hesham Abbas
 Dolly Parton
 Hamad Al Qattan
 Medhat Saleh
+Mohsen Sarhan
 Styx
 Patti LaBelle
 Brad Paisley
@@ -1381,6 +1384,7 @@ Red Hot Chili Peppers
 Ibrahim Keivo
 Hank Williams Jr.
 Mohammed Al Hashimi
+Kamal Al-Taweel
 Eddie Cochran
 Mohammed Abdu
 Ait Menguellet
@@ -1602,6 +1606,7 @@ Sariyah Oqab
 Ghazi Jeribi
 Ringo Starr
 Mohamed Ashour
+Souad Zoulikha
 Tony Bennett
 Amina Fakhet
 Claude François
@@ -1651,6 +1656,7 @@ Melissa
 Rahim AlHaj
 Tom Petty
 Malaa
+Souad Mohamed
 Bob Dylan
 The Strokes
 Haythem Hadhiri
@@ -1717,6 +1723,7 @@ Zaina Zakiyya
 Nadia Mostafa
 The Carpenters
 Ella Hall
+Maha Ahmed
 Jorja Smith
 Kim Woo Seok
 Pierre Perret
@@ -1889,6 +1896,7 @@ Charles Aznavour
 Hocine Lasnami
 Seda Sayan
 Brooklyn Stewart
+Fayza Ahmed
 Johnny's WEST
 Meek Mill
 Hamid El Shaeri
@@ -1937,6 +1945,7 @@ Bassem Karbalaoui
 Mohammed Al Gharaballi
 Tyler, The Creator
 Arwa
+Soad Hosny
 Chris Liebing
 Joris Voorn
 Louis Tomlinson
@@ -2134,6 +2143,7 @@ Abderrahmane Aziz
 Swedish House Mafia
 Axwell
 Abdul Majeed Al Remeh
+Mohamed Fawzi
 Abdulaziz Almusallam
 Codeko
 Alev Ebüzziya Siesbye
@@ -2313,6 +2323,7 @@ The Highwomen
 Baris Akarsu
 Asma Mahfouz
 Adel Yahya
+Naama
 Faisal Al Jasem
 Sly & The Family Stone
 Rashid Al-Majed
@@ -2361,6 +2372,7 @@ Marie Myriam
 5 Seconds of Summer
 Lil Baby
 Walid Al Shami
+Abd El Halim Hafez
 KinKi Kids
 Al Green
 Sia
