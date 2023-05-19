@@ -1,6 +1,6 @@
+K'naan
 Ammar Khader
 Nimco Yasin
-K'naan
 Abdulkarim Al-Makki
 Disclosure
 Bruce Springsteen
@@ -11,8 +11,8 @@ Ahmed Alshaiba
 Amal Murad
 Bon Jovi
 Abbas Ibrahim
-Paul Simon
 J. Cole
+Paul Simon
 GOT7
 The Eagles
 Shwan Sulaiman
@@ -29,21 +29,24 @@ Pascale Sakr
 The Doors
 Mohamed Salem
 Everything Everything
+Nathan Collins
 Dhikra Mohamed
 Dahman El Harachi
 Sami Yusuf
 Faudel
 Jam Hsiao
-Mohamed Fouad
 Ludovico Einaudi
-Chim ne Badi
-Mona Amarcha
+Mohamed Fouad
 Askin Nur Yengi
+Mona Amarcha
+Chim ne Badi
 Wasim Qassis
 Motley Crue
 Essa Al Marzouq
 Landy Wen
+Benjamin Clark
 Aziz Maraka
+Ahmed Fouad Negm
 Adana Twins
 Excision
 Stephen Stills
@@ -121,6 +124,7 @@ Crave
 Neil Diamond
 Mohamed Ali Kammoun
 Crystal Melodies
+Chimène Badi
 Hussam Al-Rassam
 Hameed Shareef
 Andrew Bayer
@@ -129,6 +133,7 @@ Bader Al-Naqi
 Teoman
 John Digweed
 London Grammar
+Isaac Adams
 Kenan Dogulu
 Fahad Al Arif
 Cheba Kheira
@@ -149,13 +154,15 @@ Luther Vandross
 Bob Marley
 Enrico Sangiuliano
 Said Murad
-Emad Batayeh
 Jowan Safadi
 Laura Nyro
+Emad Batayeh
 Hamaki
 Abdou El Omari
 Ritchie Valens
+Abdel Rahman El Abnoudi
 Maysa Daw
+Mohammad-Reza Shajarian
 Tarcy Su
 Farah Siraj
 Desmond Dekker
@@ -166,6 +173,7 @@ Green Day
 Ferry Corsten
 Yanni
 Angel Olsen
+William Foster
 Tugba Yurt
 The Guess Who
 Murat Boz
@@ -185,6 +193,7 @@ Abdul Rahman Mohammed
 Mohamed Eskandar
 The Flamingos
 EDX
+Avery Gonzalez
 Johnny Cash
 Nawal
 Zedd
@@ -192,6 +201,7 @@ Jackson Browne
 Ahmed Bukhatir
 Maryam Mursal
 The Police
+Mylène Farmer
 Ibrahim Dashti
 Elyes Jouini
 Issa Hassan
@@ -217,6 +227,7 @@ Kinki Kids
 Hussain Al Jassmi
 Moumen Sediq
 Steppenwolf
+Penelope Bell
 Sly Stone
 Kacey Musgraves
 Seconds of Summer
@@ -229,6 +240,7 @@ Kelvin Kwan
 Madonna
 J Balvin
 John Denver
+Nükhet Duru
 Chris Brown
 Jalal Al-Zain
 Coldharbour Recordings
@@ -266,11 +278,15 @@ Cheb Mami
 Doumka
 Zaza Fournier
 Jawad Al Ali
+Léo Ferré
+John Smith
 Charlie Puth
 Bob Seger
 Ghaliaa Amy
 Ali Abdul Sattar
+Göksel
 Benjamin Biolay
+Grace Turner
 Tiesto
 Sherine
 Chase & Status
@@ -281,6 +297,7 @@ Emel Mathlouthi
 Maribou State
 The Allman Brothers Band
 Hind Kinani
+Abigail Allen
 Djamel Laroussi
 Isabelle Boulay
 Fisher
@@ -297,6 +314,7 @@ Cheb Djalil
 Johnny Clegg
 Big Sean
 Ihab Amir
+Abdel Aziz Mahmoud
 Mohamed Mounir
 Anthrax
 Public Enemy
@@ -312,6 +330,7 @@ Hamidou
 Mohamed Chahine
 Maggie Rogers
 Abdullah Alhameem
+Elissa Khoury
 Lane 8
 The Lumineers
 Walid Toufic
@@ -335,6 +354,7 @@ Nasser Al-Qatami
 Chevelle
 Lojain Omran
 Amine Mraihi
+Ava Thompson
 Ahmed El Fishawy
 Nour Al-Ajmi
 Ariana Grande
@@ -355,11 +375,13 @@ The Partridge Family
 Khaled Abdulrahman
 Tom Jones
 La Fouine
+Janelle Monáe
 Armin van Buuren
 Ahmed Mukhtar
 Mohamed Mooge Liibaan
 The Rolling Stones
 Amr Mahmoud
+Abdel Moneim El Srouji
 Ari Lennox
 Azzedine El Issaoui
 Barry White
@@ -368,6 +390,7 @@ Abderrezak Roksy
 Sabah Habas Mustapha
 Gloria Gaynor
 Humood AlKhudher
+Nancy Nasrallah
 Noura Mint Seymali
 Natalie Cole
 Radiohead
@@ -388,15 +411,18 @@ Aline Khalaf
 Irem Derici
 Jane's Addiction
 Darren Styles
+Mohamed Abdel Rahman
 Rachid Koceila
 Kelly Chen
 Mariah Carey
 Abeer Nehme
 Camila Cabello
 Hassan Ahmed
+Mia Green
 The Delfonics
 Shinee
 Cheba Dalila
+Victoria Lewis
 Kansas
 Mohamed Hamza
 Najet Attia
@@ -411,6 +437,7 @@ Feta Ahamada
 Adele
 Manu Chao
 Indochine
+Abdul Halim Hafez
 Ali Al-Kalas
 Bruno Mars
 Ghada Shbeir
@@ -421,6 +448,7 @@ Stefanie Sun
 Wafeek Habib
 Khaled Al-Harithi
 Khalid Al Sheikh
+Çelik
  dith Butler
 The O'Jays
 Nelly Makdessy
@@ -431,10 +459,13 @@ Tony Abou Jaoude
 Cheikh Ould Saber
 Little Richard
 Stevie Wonder
+Salah El Sharnouby
+Shahnaz Rahmatullah
 Mohamad Bash
 V6
 Pusha T
 Wang Leehom
+Karem Mahmoud
 The Shirelles
 Abdullah Ruwaished
 Fiona Apple
@@ -442,6 +473,7 @@ Shireen Abdul Wahab
 Jill Scott
 Mary Wells
 Dania Quhaidan
+Mohammed Rafi
 The Head and the Heart
 Amar Ezzahi
 Fatma Boussaha
@@ -459,6 +491,7 @@ Nazem Al Ghazali
 Hussain Al Salman
 Hasni Chekroun
 The Monkees
+Olivia Martinez
 Justin Timberlake
 Willie Nelson
 Balqees Ahmed Fathi
@@ -473,6 +506,8 @@ Ailee
 Emad Hamdy
 Malika Domrane
 Samira Tawfiq
+Erhan Güleryüz
+Metin Sentürk
 Aya Nakamura
 Frankie Avalon
 Hany Shaker
@@ -483,6 +518,7 @@ Abdulla Al Awadi
 Shadia Mansour
 Loai
 Sarah Vaughan
+Joseph Reed
 Kamilya Jubran
 Patti Smith
 The Stooges
@@ -507,6 +543,7 @@ Cheikh El Hasnaoui
 Robert Plant
 Ali Farka Touré
 Ava Max
+Çetin Tekindor
 Leila Mourad
 Ekin Cheng
 GFRIEND
@@ -545,7 +582,9 @@ Masego
 Cheba Fati
 Brown Eyed Girls
 Rainbow
+tienne Daho
 Aylin Seng n Tas i
+Christian Löffler
 Helen Reddy
 Rage Against The Machine
 MC5
@@ -591,11 +630,14 @@ Big Gigantic
 Anitta
 G ls m G rses
 Eidha Al-Menhali
+Ethan Brown
 Julien Dor 
 Dahmane El Harrachi
 The Killers
 Ali Al Hadi
+Baligh Hamdi
 Thomas Rhett
+Özcan Deniz
 Najwa Karam
 Apollonia
 Jannat
@@ -607,6 +649,7 @@ William Wei
 Ali El Deek
 Mohamed El Sharnouby
 Cardi B
+Maya Nasri
 Journey
 Ian Anderson
 Lulu
@@ -638,6 +681,7 @@ Sam Smith
 Idir Ghiles
 Fahad Al-Qaisi
 Mr.Children
+Lorde
 Abdulrahman AlHaisan
 Elvis Costello
 Lauryn Hill
@@ -645,6 +689,7 @@ Yasmine Niazy
 Crosby, Stills, Nash & Young
 Lil Uzi Vert
 Joni Mitchell
+Oum Kalthoum
 Asalah Nasri
 Karim Gharbi
 Z lf  Livaneli
@@ -661,17 +706,21 @@ Cheb Khaled
 Dana Alfardan
 Amal Murkus
 Ricky Martin
+Hassan Sadiq
 Robbie Williams
 Abdulrahman Al-Rashed
 ABBA
 Jim Reeves
  dith Piaf
+Ahmad AlMasri
 Mabel Matiz
 Fats Domino
 Levi Stubbs 
 Abdulaziz Al Safi
+Alizée
 Zaz
 DJ Snake
+Kiraç
 Dina Hayek
 Christian L ffler
 Luciano
@@ -688,6 +737,7 @@ Ahmed Fahmy
 Abdulmajeed Al Ruwaili
 Mohamed Belkhayati
 Salma Rachid
+Addison Rogers
 NEWS
 Kadim Al Sahir
 Rola Saad
@@ -697,10 +747,12 @@ Tariq Al-Ali
 Jamila Chihi
 Mohammed Abulwafa
 Nancy Sinatra
+Claudio Capéo
 Fidaa Kaddoura
 Zeina Daccache
 Ilham Al Madfai
 Nour Mhanna
+Kazem Al Saher
 Abdel Halim Hafez
 Klay BBJ
  mer Danis
@@ -717,10 +769,14 @@ Abdellatif Chaouki
 Run-DMC
 Wafaa Amer
 Dr. Khaled Saeed
+Erdal Güney
 Crystal Castles
 Muzaffar Salman
 Dillon Francis
 The Grass Roots
+Ercüment Vural
+Jacob Wright
+Kazem Al-Saher
 Alan Fitzpatrick
 Diana Haddad
 NUEST
@@ -730,6 +786,7 @@ Craig David
 Ahmed Shuqairi
 Joan Jett
 Issam Kamal
+Anwar Ibrahim
 M83
 Saindou
 Phil Collins
@@ -745,10 +802,12 @@ Mohamed El Helw
 Lizzo
 Iman Abdul Ghani
 Cheba Sabah
+LounÃ¨s Matoub
 Amira Kheir
 Lorie
 Moeen Shreif
 LCD Soundsystem
+Taha Hussein
 Hazem Shahin
 Ahmad Al-Shukri
 Ali Al-Deek
@@ -756,6 +815,7 @@ Whitney Houston
 Florent Pagny
 Mohamed Jebali
 Fettah Can
+Junaid Jamshed
 Brohug
 Fakhr Al-Din
 Anwar El Amir
@@ -769,6 +829,8 @@ CHVRCHES
 Zain Awad
 Slimane
 Rafet El Roman
+Özgün
+Runa Laila
 Mohamed El Berkani
 Kaiser Chiefs
 Firas Tarhini
@@ -828,7 +890,9 @@ Aylin Aslim
 Fairuz
 Chaka Khan 
 Alex Metric
+Daniel Hill
 Jean-Jacques Goldman
+Noor Jehan
 Amjad Alsalamah
 Jennifer Lopez
 Gordon Lightfoot
@@ -836,6 +900,7 @@ May Hariri
 Young Thug
 Farid al-Atrash
 Islam Chipsy
+Ümit Besen
 Tarek El Sheikh
  zg n
 Morgan Wallen
@@ -868,6 +933,7 @@ Ehab Abd El Wahed
 Fran oise Hardy
 Mitski
 Levent Y ksel
+Meriem FekkaÃ¯
 Big Thief
 Wael Gassar
 Jon Hopkins
@@ -897,6 +963,7 @@ CloZee
 Mazen Kerbaj
 Ray Price
 Karol Sakr
+Elizabeth Kelly
 Walid Al Massih
 Bright Eyes
 Bob Sinclar
@@ -913,7 +980,10 @@ Cheb Douzi
 Halil Sezai
 Patrick Bruel
 Edith Piaf
+Anthony Carter
 Shaimaa Elshayeb
+Abdel Fattah El Sisi
+Céline Dion
 Charles Trenet
 Kim Hyun Joong
 Camille
@@ -934,6 +1004,8 @@ Laila Moura
 Chris Lee
 Lee Burridge
 Kendji
+Umm Kulthum
+Nazan Öncel
 Dinah Washington
 Mustafa Amar
 Malouma Mint Moktar Ould Dede
@@ -948,6 +1020,7 @@ Amal Mohammed
 Queen
 Don McLean
 Metallica
+Samuel Cooper
 Dalia Farid
 Charbel Rouhana
 Avicii
@@ -956,6 +1029,7 @@ Lou Reed
 Hani Mitwasi
 Wu-Tang Clan
 Joy Orbison
+Ercan Saatçi
 Abdulatif Alwadai
 Lana Del Rey
 Salim Assaf
@@ -989,12 +1063,15 @@ Lina Ben Ali
 Lauv
 Nada Faris
 Oka Wi Ortega
+Gülsüm Gürses
 Hisham El Hajj
 Dima Orsho
 Erkin Koray
 Culture Shock
 Abdullah Al-Salem
+David Lee
 Mohammad Assaf
+Françoise Hardy
 Parliament-Funkadelic
 Ali El Khouli
 Lucy Dacus
@@ -1008,6 +1085,7 @@ Julio Iglesias
 Nekfeu
 Salah El Kuwatly
 Gladys Knight
+Clémence Poésy
 Built to Spill
 Amine Aminux
 Christine and the Queens
@@ -1022,6 +1100,7 @@ x
 Tong Yi
 Rami Ayash
 Daktyl
+Levent Yüksel
 Wiz Khalifa
 AC/DC
 Shadia
@@ -1051,6 +1130,7 @@ Ruby
 Max Cooper
 Merle Haggard
 Louane
+Hayedeh
 Aisha Abdulqader
 Salah El Kurdi
 Pink Floyd
@@ -1068,6 +1148,7 @@ Park Ji Hoon
 Kendrick Lamar
 NCT 127
 Billy Preston
+Nusrat Fateh Ali Khan
 Mohammed Al Bakri
 Dr. Dre
 Abdulrahman Mohammed
@@ -1139,6 +1220,8 @@ Nicki Minaj
 Blasterjaxx
 Sevval Sam
 The Mamas & the Papas
+Michael Taylor
+Riad Al Hamshari
 Eric Clapton
 Bonnie Raitt
 Mohamed Attia
@@ -1155,6 +1238,7 @@ Super Junior
 Pat Boone
 Abdellah Daoudi
 Bara'a Abdulhadi
+Christopher Wood
 Ragheb Alama
 Ismail Ahmed
 Hins Cheung
@@ -1174,7 +1258,9 @@ Elvis Presley
 Martha and the Vandellas
 Michel Azzi
 Derya Ulug
+U2
 Maitre Gims
+Aziza Mustafa Zadeh
 Neil Sedaka
 Hani Metwasi
 Mona Shaddad
@@ -1186,8 +1272,8 @@ Mahmoud El Leithy
 Nabil Shuail
 Aseel Abu Bakr
 Thundercat
-A.C.E
 Lewis Capaldi
+A.C.E
 Ninho
 Alexandra Stan
 Yousra
@@ -1207,6 +1293,7 @@ Mohamed Abdo
 Hugues Aufray
 Mounir Khouiled
 Iyad Rimawi
+Abdel Aziz Al Mubarak
 Haifa Wehbe
 Rod Stewart
 Ed Sheeran
@@ -1221,6 +1308,7 @@ Carole Samaha
 Andeel
 Carla Lazzari
 Day6
+Ömer Danis
 Huda Sultan
 Hala Al Kaseer
 Tones and I
@@ -1233,6 +1321,7 @@ Cheb Rayan
 Julien Clerc
 Rola Bahnam
 Jai Wolf
+Abd El Halim El Ramzi
 Charley Pride
 Etta James
 Chakir Rap Oran
@@ -1280,6 +1369,8 @@ Ali Al-Hammoud
 Sonia M'Barek
 Lassaad Ben Abdallah
 Nazan  ncel
+Müslüm Gürses
+Zekra
 Abdullah Alruwaished
 MOMOLAND
 Chris Malinchak
@@ -1345,6 +1436,8 @@ Abdullah Al-Jumah
 John Mayer
 Asmaa Beltagy
 Claudio Cap o
+Ahmad Zahir
+Ahmed Al Ajmi
 Johnny Paycheck
 Lin Yanjun
 Sebnem Ferah
@@ -1354,8 +1447,10 @@ Eli Brown
 Iggy Pop
 Mazagan
 Bingo Players
+Mehdi Hassan
 Carmen Lebbos
 Badr Al-Zaidi
+Ghulam Ali
 Rasha Rizk
 Wust El Balad
 Nesma Mahgoub
@@ -1380,6 +1475,7 @@ Engelbert Humperdinck
 Laith Al-Deen
 Billy Joel
 Carly Simon
+Édith Butler
 Alison Wonderland
 El Zabair Band
 Epik High
@@ -1393,7 +1489,9 @@ Emad Alaa
 Hadda Ouakki
 Hamza Namira
 Nass El Ghiwane
+Julien Doré
 Abeer Al-Otaiba
+Nagat El Saghira
 Koray Avci
 Tim McGraw
 Ahmed Al-Harmi
@@ -1401,6 +1499,7 @@ David Ruffin
 Hisham Abbas
 Rasha Nahas
 Rascal Flatts
+Houria AÃ¯chi
 Bushra Al-Fadil
 Claude Fran ois
 Yousef Kekhia
@@ -1429,6 +1528,7 @@ Iron & Wine
 Adriatique
 Jessie J
 Nawal Al Zoghbi
+Leah Mitchell
 Jimmy Cliff
 Durrty Goodz
 Ayman Alatar
@@ -1438,6 +1538,7 @@ Roger Khoury
 Guan Zhe
 Mayada El Hennawy
 AJR
+Hossam Ramzy
 Ajda Pekkan
 Fadi Andraos
 Little Dragon
@@ -1466,6 +1567,7 @@ Zein El Omr
 Chuck Berry
 Loutfi Attar
 Abdel Basset Hamouda
+Gökhan Türkmen
 Abdulaziz Al Duwaihi
 Faith No More
 Steve Aoki
@@ -1477,6 +1579,7 @@ Oh My Girl
 Sebnem Kisaparmak
 Death Cab for Cutie
 Turki Al-Sheikh
+Juliette Gréco
 Shadi Jamil
 Kaaris
 Pat Benatar
@@ -1501,6 +1604,7 @@ Ringo Starr
 Mohamed Ashour
 Tony Bennett
 Amina Fakhet
+Claude François
 Jason Derulo
 Ekin Uzunlar
 Hamsa Haddad
@@ -1552,7 +1656,9 @@ The Strokes
 Haythem Hadhiri
 Fatum
 Eagles
+FayÃ§al Azizi
 Andy Williams
+James Moore
 Black Theama
 Jacky Cheung
 Mahmoud El Esseily
@@ -1561,6 +1667,7 @@ India.Arie
 Loretta Lynn
 Abdo Feghali
 Kelly Clarkson
+Pitbull
 Zazie
 Eazy-E
 Daffy & Flipperachi
@@ -1569,6 +1676,7 @@ Khalid AlJaleel
 Areej Al-Naji
 Randa Hafez
 Norah Jones
+Christopher Adams
 Louai Kayyali
 Ali Zreik
 The Fifth Dimension
@@ -1590,11 +1698,14 @@ Cynthia Khalifeh
 Justice
 Mohamed Shahin
 Bon Iver
+Atif Aslam
 Assi Al Hillani
 ZICO
 Majid Al Mohandes
 Naima Shalhoub
+Owen Cook
 Awad Abdel Fatih
+Beyoncé
 Fawzi Ben Gamra
 Stone Sour
 Houria Aïchi
@@ -1603,7 +1714,9 @@ The Beatles
 Dusky
 Fatimah Al-Qadiri
 Zaina Zakiyya
+Nadia Mostafa
 The Carpenters
+Ella Hall
 Jorja Smith
 Kim Woo Seok
 Pierre Perret
@@ -1614,6 +1727,7 @@ Erykah Badu
 Saif Al-Khayyat
 Jenifer Brening
 Keith Urban
+Jonathan Hill
 Melhem Barakat
 Roberta Flack
 Poison
@@ -1650,6 +1764,7 @@ Mohammed Al-Baldawi
 Ali Al-Rassam
 Carrie Underwood
 Cairo Kee
+Chloe Walker
 Jasem Al-Nabhan
 Kira 
 Benjamin Siksou
@@ -1666,6 +1781,7 @@ Ibrahim Al-Arabi
 Olivia Ruiz
 Joe Dassin
 Judas Priest
+Sherine Abdel Wahab
 The Shangri-Las
 Baasto Mukhtar
 Hassan Zirak
@@ -1690,6 +1806,7 @@ Santana
 Maroon 5
 David Byrne 
 Hussein El Jasmi
+Gülsen
 Enrique Iglesias
 Dan + Shay
 Kool & The Gang
@@ -1731,11 +1848,13 @@ Fawzi Chekili
 Crizzly
 Mayada Al Hennawi
 Carmen Soliman
+Gérard Lenorman
 Dalia Mubarak
 Stevie Ray Vaughan
 Ali Feiruz
 Saif Nabeel
 Franck Vigroux
+Hélène Ségara
 Abdulwahab Al Rassam
 Iman El Bahr Darwish
 Ozuna
@@ -1757,6 +1876,7 @@ Ahlam Al Shamsi
 Rashed Al Majed
 Majed Al Mohandes
 Saber Rebaï
+Sophia Baker
 Ayman Zbib
 Alwaleed Al-Abdulkarim
 Lydian Label
@@ -1768,6 +1888,7 @@ Troye Sivan
 Charles Aznavour
 Hocine Lasnami
 Seda Sayan
+Brooklyn Stewart
 Johnny's WEST
 Meek Mill
 Hamid El Shaeri
@@ -1797,6 +1918,7 @@ Marwan Mahfouz
 Highlight
 Mohamed Alsalim
 BTOB
+Fnaïre
 The Mountain Goats
 Shania Twain
 Patsy Cline
@@ -1830,12 +1952,16 @@ Anne Murray
 Loubna Abidar
 Fawaz Al-Otaibi
 Roger Daltrey
+Scarlett Butler
 Elias Rahbani
 Emancipator
+Yüzyüzeyken Konusuruz
 Adonis
+Renaud Capuçon
 THE BOYZ
 Eats Everything
 Faisal Al-Ali
+Abida Parveen
 Adel Al-Haqi
 Snoop Dogg
 Nourhanne
@@ -1845,6 +1971,8 @@ Selena Gomez
 Mohamed Hassan
 OneRepublic
 Fella Ababsa
+Sükriye Tutkun
+Mashrou' Leila
 The Shins
 Twenty One Pilots
 C line Dion
@@ -1853,14 +1981,18 @@ The Postal Service
 Badih Abou Chakra
 Funda Arar
 Indila
+Kadem Saher
 Elie Achkar
 Jadal
 ZZ Top
 NGT48
 Ayat Al Qurmezi
+Bengü
+Kölsch
 Imed Alibi
 Balqees Fathi
 Juliette Gr co
+Abd El Fattah Grini
 Djamel Sabri
 G khan T rkmen
 Farida Mohammad Ali
@@ -1876,12 +2008,14 @@ Van Halen
 Chungha
 System of a Down
 Nicole Saba
+Aylin Sengün Tasçi
 Sonny & Cher
 Felix Cartal
 The Game
 Jim Morrison
 Heize
 Interpol
+Mohamed El Hayani
 Renaud
 AKB48
 Mohammad Mansour
@@ -1914,6 +2048,7 @@ Arctic Monkeys
 Wael Kfoury
 Farid El Atras
 The Coasters
+Harper King
 Jayda G
 Elysian
 Hussain Al-Jassmi
@@ -1945,16 +2080,21 @@ Sabrina Carpenter
 Modest Mouse
 Devin Townsend
 Ayman Al Khaleq
+Samuel Wilson
 Mohamed Ali
 BIGBANG
+Véronique Sanson
+Ali Deek
 Janelle Mon e
 Yasar
 Beck
  zcan Deniz
 The Byrds
 Qassim Al Najar
+Matthew Rodriguez
 Dusty Springfield
 The Yardbirds
+Jane Doe
 Ahmed Fakroun
 Talal Al-Maddah
 Naseem Alatrash
@@ -1967,10 +2107,12 @@ Fadhel Jaziri
 Van Morrison
 Gacal Aden
 Nabeel Shuail
+Mohammed Abdel Wahab
 SMAP
 Simon Hadchiti
 Vision Wei
 Pascale Machaalani
+Ege Çubukçu
 Billy Gibbons 
 Barry Gibb 
 Cher
@@ -1978,12 +2120,14 @@ Buck Owens
 Bashar Farran
 Wilson Pickett
 Dax J
+Zülfü Livaneli
 Rakan Al-Salem
 Balqees
 Ali Al-Kassar
 Abdallah Al Rowaished
 Fayçal Azizi
 Prince
+Zoey Hernandez
 Heart 
 Mishari Alafasy
 Abderrahmane Aziz
@@ -1992,6 +2136,7 @@ Axwell
 Abdul Majeed Al Remeh
 Abdulaziz Almusallam
 Codeko
+Alev Ebüzziya Siesbye
 Otis Redding
 Dream Theater
 Lost Frequencies
@@ -2001,6 +2146,7 @@ Waleed Al Shami
 Jeremy Olander
 Ali Kocatepe
 Omar Khairat
+Noah Phillips
 Sidaty Ould Abba
 Kidnap
 Basma
@@ -2012,6 +2158,7 @@ The Wailers
 SECHSKIES
 Mohammed Al Amin
 My Chemical Romance
+Angèle
 Tariq Abdulhakim
 Lomepal
 The Clash
@@ -2037,6 +2184,8 @@ Father John Misty
 Def Leppard
 Ahmed Chawki
 Bobby Darin
+Harun Kolçak
+Andrew Turner
 Marwan Khoury
 Meshal Al Jaser
 Khaoula Moujahid
@@ -2074,6 +2223,7 @@ Imagine Dragons
 Jannat Mahid
 Vince Staples
 Lesley Gore
+Ipek Açar
 Jean-Louis Aubert
 Tom Waits
 Mashael
@@ -2081,6 +2231,7 @@ Marwan Abado
 Ben E. King
 Jack Johnson
 The Chordettes
+Madison Scott
 Amelie Lens
 Rashed Al-Majed
 Bob Moses
@@ -2094,10 +2245,13 @@ Perry Como
 Soko
 Kali Uchis
 James Brown
+Jack Hall
 Jaafar Al Ghazal
 The Association
+Najat Al Saghira
 Megadeth
 Salem Al Fakir
+Alexander Young
 Omar El-Abdallat
 Creedence Clearwater Revival
 Karen Carpenter
@@ -2106,14 +2260,17 @@ Hassan Al-Arabi
 Connie Smith
 Zhou Shen
 Hadi Aswad
+Henry Ward
 George Wassouf
 Florida Georgia Line
+Sofia Wright
 Mohammed Al Turki
 Laurent Voulzy
 Dimi Mint Abba
 Maya Diab
 Cem Adrian
 Laidback Luke
+Sarah Anderson
 Kill The Noise
 Ahmed Kamel
 Blondie
@@ -2126,6 +2283,7 @@ Nour El Zein
 Brenda Lee
 Eman Al Obeidi
 Amira Willighagen
+Cyrine Abdel Nour
 Daniel Avery
 Sharmoofers
 Sabah Fakhri
@@ -2145,6 +2303,7 @@ Fayrouz Karawya
 Hatem Al Iraqi
 Mohamed Rouicha
 John Legend
+Ali Farka TourÃ©
 Hany Adel
 Gladys Knight & The Pips
 Nicholas Tse
@@ -2158,14 +2317,17 @@ Faisal Al Jasem
 Sly & The Family Stone
 Rashid Al-Majed
 Hodan Afrika
+Ahmed Zahir
 REO Speedwagon
 Ayoub Tarish
+Étienne Daho
 Ferhat Mehenni
 Maryam Faris
 Ziad Itani
 Mohamed Adaweya
 Lucinda Williams
 L o Ferr 
+Aria Cook
 Salim Al-Maskiry
 Ghassan Saliba
 Linda Ronstadt
@@ -2176,11 +2338,13 @@ Selena
 Latifa
 Jackie DeShannon
 Ahmed Mohsen
+Googoosh
 Hussein Al Jassmi
 Majida El Roumi
 The Miracles
 Grizzly Bear
 Girls' Generation
+Emily Johnson
 Eric Church
 Sturgill Simpson
 Hodan Abdirahman
@@ -2203,6 +2367,7 @@ Sia
  elik
 Mohamed Ramadan
 Conway Twitty
+Lata Mangeshkar
 Khaled Hadj Brahim
 Omar Souleyman
 Robert Plant 
@@ -2235,6 +2400,7 @@ Stromae
 Selena Gomez
 Cengiz Kurtoglu
 IAM
+Ali Jihad Racy
 Elie Attieh
 Penny Tai
 Ahmed Hamza
@@ -2282,6 +2448,7 @@ Bakermat
 Saif Amer
 Mika
 Three Dog Night
+Aisha Abdel Rahman
 Jungle
 Johnny Rivers
 Ghady Bechara
@@ -2311,20 +2478,24 @@ Cubicolor
 Carole King
 The Kinks
 Safy Boutella
+Sayed Darwish
 Abdulhakim Al-Tamimi
 Najat Aatabou
 Infinite
 Mohammed Assaf
 The Turtles
 Arwa Ahmed
+Grégoire
 Alaa Zalzali
 Talal Qureshi
 Sufjan Stevens
 Bicep
+Édith Piaf
 Tanya Tucker
 Mohammed Al Barak
 Farid Al-Atrash
 Chang Chen-yue
+Lily Davis
 Amine Radi
 Cheap Trick
 Souad Hosny
@@ -2332,9 +2503,9 @@ Tame Impala
 First Aid Kit
 Ahmed Ahmed
 Sheila Majid
+Zeki Müren
 Hussam Jneed
 Cyndi Lauper
 Hiba Al Kawas
 Kim Jae Hwan
 Abderrazek Kliou
-tienne Daho
